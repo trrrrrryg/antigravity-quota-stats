@@ -1,0 +1,14 @@
+{
+  "name": "antigravity-quota-stats",
+  "displayName": "Quota & Usage Stats",
+  "version": "1.0.0",
+  "description": "在左侧边栏设置按钮上方展示订阅/周期额度卡片，点击弹出与原生样式一致的使用详情、模型分布与每日用量热力图。",
+  "logo": "assets/logo.svg",
+  "author": {
+    "name": "Local Custom Plugin"
+  },
+  "suggestedPrompts": [
+    "打开右侧 Quota & Usage Stats 辅助面板查看额度与统计",
+    "/quota-stats 汇总当前 Antigravity 的会话、Token 与模型使用情况"
+  ]
+}
